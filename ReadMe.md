@@ -20,13 +20,13 @@ A Python-based portfolio optimization tool that leverages historical stock data 
 ## 🖼️ Sample Output
 
 ### 📊 Historical Stock Prices
-![Price Plot](.png)
+![Price Plot](https://github.com/karma659/Optimized-Portfolio-Construction-Analysis/blob/main/c.png)
 
 ### 📉 Efficient Frontier
-![Efficient Frontier](.png)
+![Efficient Frontier](https://github.com/karma659/Optimized-Portfolio-Construction-Analysis/blob/main/b.png)
 
 ### 🌟 Optimal Portfolio Highlighted
-![Optimal Portfolio](.png)
+![Optimal Portfolio](https://github.com/karma659/Optimized-Portfolio-Construction-Analysis/blob/main/a.png)
 
 > **Optimal portfolio:** `[0.373, 0.246, 0.37, 0.0, 0.011, 0.0]`  
 > **Expected return:** `0.246`  
